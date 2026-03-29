@@ -12,7 +12,7 @@ st.set_page_config(page_title="FinTracker AI Dashboard", layout="wide", page_ico
 
 # Theming and Layout
 st.title("🛡️ FinTracker Executive Agent Dashboard")
-st.markdown("##### Real-Time Anomaly & Spend Optimization Pipeline")
+st.markdown("##### Real-Time Anomaly Detection & Spend Optimization Pipeline")
 
 @st.cache_resource
 def init_agent():
