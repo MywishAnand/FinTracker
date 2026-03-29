@@ -1,6 +1,6 @@
 # 💸 FinTracker: Agentic Financial Intelligence & Anomaly Detection
 
-Detect. Analyze. Flag.
+Detect. Analyze. Flag. \\
 FinTracker is a high-performance, agentic pipeline designed to solve the "Expense Visibility Gap" for modern businesses. It automates the ingestion of unstructured financial documents, enforces strict PII data privacy, categorizes expenditures via semantic intelligence, and identifies capital leakage through hybrid anomaly detection.
 
 🌐 **Live Demo:** https://fintracker-agent.streamlit.app/  
