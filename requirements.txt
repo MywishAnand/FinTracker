@@ -1,4 +1,4 @@
-# Requires Python >= 3.10 (Cannot be installed directly via pip)
+# Requires Python >= 3.10
 streamlit>=1.30.0
 pandas>=2.0.0
 plotly>=5.18.0
