@@ -1,6 +1,10 @@
 # 💸 FinTracker: Agentic Financial Intelligence & Anomaly Detection
 
+> Detect. Analyze. Flag.  
 FinTracker is a high-performance, agentic pipeline designed to solve the "Expense Visibility Gap" for modern businesses. It automates the ingestion of unstructured financial documents, enforces strict PII data privacy, categorizes expenditures via semantic intelligence, and identifies capital leakage through hybrid anomaly detection.
+
+🌐 **Live Demo:** https://fintracker-agent.streamlit.app/  
+📂 **Repository:** https://github.com/MywishAnand/FinTracker  
 
 ## 🚀 Key Features
 - **Multimodal Ingestion**: Seamlessly ingest `.pdf`, `.csv`, and `.xlsx` financial records.
@@ -46,7 +50,7 @@ streamlit run app.py
 
 ## 📋 How to Use
 1. **Initialize**: Launch the app and view the "Data Gateway" on the main dashboard.
-2. **Upload**: Drag and drop your bank statements, PDF receipts, or transaction ledgers.
+2. **Upload**: Drag and drop your 📄 bank statements, 💳 PDF receipts, or 📊 transaction ledgers.
 3. **Analyze**: The agentic pipeline automatically sanities, categorizes, and flags your data.
 4. **Optimize**: Review the "Cost Reduction Roadmap" and specific anomalies flagged by the AI.
 5. **Export**: Use the "Download CFO Summary Report" button to save your sanitized and processed ledger.
@@ -56,6 +60,3 @@ streamlit run app.py
 ## 🔒 Security & Privacy
 Data security is built into the core of FinTracker. All processing occurs locally within the execution environment. The **Security Engine** uses regex-based patterns to identify and redact personal identifiers immediately after ingestion, ensuring that neither the categorization logic nor the final dashboard ever handles exposed PII.
 
-## 🤝 Contributing
-Created by **Mywish Anand**. Contributions, issues, and feature requests are welcome!
-- GitHub: [https://github.com/MywishAnand/](https://github.com/MywishAnand/)
